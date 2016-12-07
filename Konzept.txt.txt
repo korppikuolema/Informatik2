@@ -1,0 +1,25 @@
+GRUNDIDEE:
+
+Mein Spiel wird ein textbasiertes Adventure, das in Java umgesetzt wird, sein.
+Der Spieler hat immer zwei Antwortmöglichkeiten zur Auswahl die zu dem nächsten in einem Array gespeicherten Event führen. 
+So erlebt der User entweder das „gute“ oder das „schlechte“ Ende.
+
+STORYIDEE:
+
+Der User will eigentlich nur seine Facebook-App checken als sein Bildschirm schwarz wird und sich auf einmal ein provisorischer Chat öffnet.
+Dort unterhält er sich mit „Unknown“, diese Person ist verzweifelt denn angeblich hat sie ein unbekanntes Handy gefunden und möchte dieses seinem
+rechtmäßigem Besitzer zurückgeben. Anscheinend hat der User „Unkown“ eine Adresse auf dem Handy gefunden, die angeblich zu dem Besitzer führt.
+Die Person ist angeblich verhindert und bittet den Spieler seine Kontaktdaten bei der gefunden Adresse zu hinterlegen.
+Nachdem der Spieler zu der Adresse reist kommt er zu einem unheimlichen Haus und wird von einer Dame empfangen,
+die sich selber nur als Gesegnete bezeichnet. Nachdem der Spieler seine Lage beschreibt erzählt sie ihm vom Paradies und versucht ihn davon
+zu überzeugen ihr dahin zu folgen.
+
+Gute Ende:
+
+Der Spieler nimmt reiß aus und liest Tage später in der Zeitung, dass es sich um eine weltweite Sekte handelt,
+die tausende Handys gehackt haben um neue Mitglieder für sich zu gewinnen und nun festgenommen wurden.
+
+Schlechtes Ende:
+
+Der Spieler folgt der Dame in das Haus und wird einer Gehirnwäsche unterzogen, er wurde nie wieder von seinen Angehörigen gesehen.
+
