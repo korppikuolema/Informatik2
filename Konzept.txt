@@ -1,10 +1,14 @@
 GRUNDIDEE:
 
-Mein Spiel wird ein textbasiertes Adventure.
+Mein Spiel wird ein textbasiertes Adventure mit Grafikelementen
 
-Programmiersprache: Java
+Programmiersprache: C#
+Engine: Unity
 
-Der Spieler hat immer zwei Antwortmöglichkeiten zur Auswahl die zu dem nächsten in einem Array gespeicherten "Event" führen.
+Der Spieler erlebt 3 Szenen die grafisch hinterlegt werden.
+Im Vordergrund befindet sich eine GUI auf der die Story in Form von Text wiedergegeben wird.
+
+Der Spieler hat immer zwei Antwortmöglichkeiten zur Auswahl die zu dem nächsten "Event" führen.
 
 So erlebt der User entweder das „gute“ oder das „schlechte“ Ende.
 
@@ -14,7 +18,7 @@ Der User will eigentlich nur seine Facebook-App checken als sein Bildschirm schw
 
 Nachdem der Spieler zu der Adresse reist kommt er zu einem unheimlichen Haus und wird von einer Dame empfangen, die sich selber nur als Gesegnete bezeichnet. Nachdem der Spieler seine Lage beschreibt erzählt sie ihm vom Paradies und versucht ihn davon zu überzeugen ihr dahin zu folgen.
 
-Gute Ende:
+Gutes Ende:
 
 Der Spieler nimmt reiß aus und liest Tage später in der Zeitung, dass es sich um eine weltweite Sekte handelt, die tausende Handys gehackt haben um neue Mitglieder für sich zu gewinnen und nun festgenommen wurden.
 
